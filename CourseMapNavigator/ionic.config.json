@@ -1,0 +1,7 @@
+{
+  "name": "CourseMapNavigator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
